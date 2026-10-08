@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile header](./assets/profile-header.svg)
+![Profile header](./profile-header.svg)
 
 ### HELENA FREITAS
 

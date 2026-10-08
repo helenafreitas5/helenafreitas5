@@ -8,7 +8,7 @@
 
 `@helenafreitas5` · `BRAZIL`
 
-Construo produtos digitais, experiências visuais e sistemas que transformam ideias em coisas que funcionam.
+Engenheira de Solução · Mais de 7 mil executivos treinados em GenAI Business Efficiency.
 
 [![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenafreitas5@gmail.com)
 
@@ -20,6 +20,8 @@ Construo produtos digitais, experiências visuais e sistemas que transformam ide
 
 | EIXO | FOCO ATUAL |
 | :--- | :--- |
+| **Atuo como** | Engenheira de Solução |
+| **Treino** | Executivos em GenAI Business Efficiency |
 | **Construo** | Produtos, automações, interfaces e ferramentas úteis |
 | **Exploro** | IA aplicada, design de produto e prototipagem rápida |
 | **Gosto de** | Clareza, detalhe, sistemas simples e execução consistente |

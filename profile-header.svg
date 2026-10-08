@@ -1,0 +1,21 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Helena public profile header">
+  <rect width="1200" height="330" fill="#f7f7f2"/>
+  <path d="M0 56H1200M0 95H1200M0 134H1200M0 173H1200M0 212H1200M0 251H1200M0 290H1200" stroke="#d9d9d2" stroke-width="1"/>
+  <path d="M40 0V330M86 0V330M132 0V330M178 0V330M224 0V330M270 0V330M316 0V330M362 0V330M408 0V330M454 0V330M500 0V330M546 0V330M592 0V330M638 0V330M684 0V330M730 0V330M776 0V330M822 0V330M868 0V330M914 0V330M960 0V330M1006 0V330M1052 0V330M1098 0V330M1144 0V330" stroke="#e6e6df" stroke-width="1"/>
+  <g fill="#3157f5" font-family="monospace" font-weight="700">
+    <text x="42" y="45" font-size="12">FIG_000 / PUBLIC BUILDER PROFILE</text>
+    <text x="1080" y="45" font-size="12">@HELENAFREITAS5</text>
+    <text x="42" y="130" font-size="55" letter-spacing="2">HELENA FREITAS</text>
+    <text x="42" y="165" font-size="15" fill="#222">CREATIVE TECHNOLOGY · PRODUCT · SYSTEMS</text>
+    <text x="42" y="221" font-size="88" letter-spacing="-5">#01</text>
+    <text x="330" y="216" font-size="13" fill="#222">BUILD INDEX</text>
+    <text x="330" y="245" font-size="30">OPEN / ACTIVE</text>
+    <text x="783" y="220" font-size="13" fill="#222">SIGNAL</text>
+    <text x="783" y="250" font-size="31">CURIOUS</text>
+  </g>
+  <g stroke="#3157f5" fill="none" stroke-width="2">
+    <path d="M42 270 C110 246 160 292 225 270 S340 246 410 270 S535 291 610 268 S735 246 800 270 S920 292 1000 267 S1100 245 1158 270"/>
+    <path d="M42 278 C110 254 160 300 225 278 S340 254 410 278 S535 299 610 276 S735 254 800 278 S920 300 1000 275 S1100 253 1158 278" opacity=".35"/>
+  </g>
+  <text x="42" y="314" font-family="monospace" font-size="10" fill="#777">VERSION 01 · HUMAN-MADE · STILL BUILDING</text>
+</svg>

@@ -8,7 +8,7 @@
 
 `@helenafreitas5` · `BRAZIL`
 
-Engenheira de Solução · Mais de 7 mil executivos treinados em GenAI Business Efficiency.
+Engenheira de Solução · Mais de 7 mil executivos treinados na Deloitte em GenAI Business Efficiency (2025–2026).
 
 [![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenafreitas5@gmail.com)
 
@@ -58,13 +58,14 @@ Descrição curta do projeto em uma frase: uma escolha técnica ou visual intere
 
 ## `04 / SPEAKING & TRAINING`
 
-Mais de 7 mil profissionais treinados em Inteligência Artificial. Palestras, workshops e imersões para lideranças, produto, marketing e tecnologia.
+Mais de 7 mil executivos treinados na Deloitte em Inteligência Artificial entre 2025 e 2026. Palestras, workshops e imersões para lideranças, produto, marketing e tecnologia.
 
 ### Palestras e eventos
 
 - **IBM — 2024** · Produtividade, Customer Care e Watsonx
 - **Microsoft Reactor — 2024** · Agentes de IA e mulheres na tecnologia
-- **Rio Innovation Week — 2023**
+- **Rio Innovation Week — 2026** · Physical AI
+- **Hedge Investments** · Inteligência Artificial e eficiência de negócios
 - **Blockchain SP — 2023**
 - **Shutterstock IA / GiraDAO — 2024**
 - **Solana Hyperdrive Hackathon — 2023**

@@ -56,7 +56,38 @@ Descrição curta do projeto em uma frase: uma escolha técnica ou visual intere
 
 `[TECNOLOGIA]` ` [TECNOLOGIA]` ` [STATUS]`
 
-## `04 / TOOLKIT`
+## `04 / SPEAKING & TRAINING`
+
+Mais de 7 mil profissionais treinados em Inteligência Artificial. Palestras, workshops e imersões para lideranças, produto, marketing e tecnologia.
+
+### Palestras e eventos
+
+- **IBM — 2024** · Produtividade, Customer Care e Watsonx
+- **Microsoft Reactor — 2024** · Agentes de IA e mulheres na tecnologia
+- **Rio Innovation Week — 2023**
+- **Blockchain SP — 2023**
+- **Shutterstock IA / GiraDAO — 2024**
+- **Solana Hyperdrive Hackathon — 2023**
+- **OAB São Paulo — 2022** · Lawyers e escritórios no metaverso
+- **NFT Brasil — 2023**
+- **Ethereum Brasil — 2023**
+- **Blockchain Festival — 2023**
+- **SP Cripto Hub — 2022 e 2023**
+- **Casa NFT — 2023**
+- **Arte de Portas Abertas — Rio de Janeiro, 2023**
+- **SolarPunk Web3 — Maac Hub, 2024**
+
+### Treinamentos e imersões corporativas
+
+- **Pearson / Wizard** · Imersão Microsoft Copilot para produtividade e decisões inteligentes
+- **Thoughtworks** · GenAI para lideranças e transformação de negócios
+- **PM3 Summit / Cubo Itaú** · Orquestração de agentes, governança e prompt injection
+- **Itaú, Cielo, Intel, Vivo e Bradesco** · Workshops de Design Thinking
+- **ClubCasa / Casa Design** · Mentoria de Inteligência Artificial em hackathon
+
+> Também sou host do **GiraTalks**, conectando tecnologia, negócios, Web3 e Inteligência Artificial.
+
+## `05 / TOOLKIT`
 
 ```text
 PRODUCT        [Design de produto] · [Prototipagem] · [Pesquisa]
@@ -65,7 +96,7 @@ VISUAL         [Figma] · [Motion] · [3D] · [Direção de arte]
 WORKFLOW       [Git] · [GitHub] · [Documentação] · [Deploy]
 ```
 
-## `05 / OPEN LOOP`
+## `06 / OPEN LOOP`
 
 Estou sempre interessada em projetos que conectem tecnologia, criatividade e impacto real.
 
